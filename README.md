@@ -17,3 +17,5 @@ If you are developing a production application, we recommend using TypeScript wi
 # cafe
 
 Deployed with GitHub Pages
+
+Deployment trigger: Pages source is GitHub Actions
